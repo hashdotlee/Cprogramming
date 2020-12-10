@@ -1,0 +1,328 @@
+
+*** These modified files were found in JOE when it aborted on Thu Dec 10 23:55:06 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;tr -d <$SPLTMP '\012';/bin/rm $SPLTMP
+SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty >/dev/tty;cat $SPLTMP;/bin/rm $SPLTMP
+
+*** File '(Unnamed)'
+1
+3
+
+*** File '* Shell 1 *'
+
+Type joehelp for editor shell commands
+
+ lee  ~  Desktop  cProgramming  gcc 
+a.out                    greaterPrime.c           .hello_world.c.swp
+greaterPrime             hello_world.c            matrix_multiplication.c
+ lee  ~  Desktop  cProgramming  gcc matrix_multiplication.c -o matrix_multip
+lication && ./matrix_multiplication
+[1mmatrix_multiplication.c:3:22:[m [1m[31merror: [marray type has incomplete element type ‘[1mint
+[1m[][m’
+    3 | void input_array(int [1m[31mA[m[][]){
+      |                      [1m[31m^
+[1mmatrix_multiplication.c:3:22:[m [1m[36mnote: [mdeclaration of ‘[1mA[m’ as multidimensional array
+ must have bounds for all dimensions except the first
+[1mmatrix_multiplication.c:[m In function ‘[1mmain[m’:
+[1mmatrix_multiplication.c:18:12:[m [1m[31merror: [mexpected ‘[1m([m’ before ‘[1m{[m’ token
+   18 |     switch [1m[31m{
+      |            [1m[31m^
+      |            [32m(
+[1mmatrix_multiplication.c:20:25:[m [1m[31merror: [mtype of formal parameter 1 is incomplete
+   20 |             input_array([1m[31mA[m);
+      |                         [1m[31m^
+[1mmatrix_multiplication.c:23:25:[m [1m[31merror: [mtype of formal parameter 1 is incomplete
+   23 |             input_array([1m[31mB[m);
+      |                         [1m[31m^
+[1mmatrix_multiplication.c:26:25:[m [1m[31merror: [mtype of formal parameter 1 is incomplete
+   26 |             input_array([1m[31mC[m);
+      |                         [1m[31m^
+ lee  ~  Desktop  cProgramming  pop
+ lee  ~  Desktop  cProgramming  gcc matrix_multiplication.c -o matrix_multip
+lication && ./matrix_multiplication
+[1mmatrix_multiplication.c:[m In function ‘[1minput_array[m’:
+[1mmatrix_multiplication.c:5:86:[m [1m[35mwarning: [mformat ‘[1m%d[m’ expects argument of type ‘[1mint
+[1m *[m’, but argument 2 has type ‘[1mint[m’ [[1m[35m-Wformat=[m]
+    5 | irst row: "); scanf("%d",&A[0][0]);scanf("%d", &A[0][1]); scanf("[1m[35m%d[m", [32mA[
+[32m0][2][m);
+      |                                                                  [1m[35m~^[m   [32m~~
+[32m~~~~~
+      |                                                                   [1m[35m|[m     
+  [32m|
+      |                                                                   [1m[35mint *[m 
+  [32mint
+
+[1mmatrix_multiplication.c:6:87:[m [1m[35mwarning: [mformat ‘[1m%d[m’ expects argument of type ‘[1mint
+[1m *[m’, but argument 2 has type ‘[1mint[m’ [[1m[35m-Wformat=[m]
+    6 | cond row: "); scanf("%d",&A[1][0]);scanf("%d", &A[1][1]); scanf("[1m[35m%d[m", [32mA[
+[32m1][2][m);
+      |                                                                  [1m[35m~^[m   [32m~~
+[32m~~~~~
+      |                                                                   [1m[35m|[m     
+  [32m|
+      |                                                                   [1m[35mint *[m 
+  [32mint
+
+[1mmatrix_multiplication.c:7:86:[m [1m[35mwarning: [mformat ‘[1m%d[m’ expects argument of type ‘[1mint
+[1m *[m’, but argument 2 has type ‘[1mint[m’ [[1m[35m-Wformat=[m]
+    7 | hird row: "); scanf("%d",&A[2][0]);scanf("%d", &A[2][1]); scanf("[1m[35m%d[m", [32mA[
+[32m2][2][m);
+      |                                                                  [1m[35m~^[m   [32m~~
+[32m~~~~~
+      |                                                                   [1m[35m|[m     
+  [32m|
+      |                                                                   [1m[35mint *[m 
+  [32mint
+
+Please choose the option 1-5
+1. Input A
+2. Input B
+3. Input C
+4. Multiply
+5. Exit
+1-5: k
+ lee  ~  Desktop  cProgramming  pop
+ lee  ~  Desktop  cProgramming  gcc matrix_multiplication.c -o matrix_multip
+lication && ./matrix_multiplication
+Please choose the option 1-5
+1. Input A
+2. Input B
+3. Input C
+4. Multiply
+5. Exit
+1-5: 1
+###### Input matrix wizard ######Input first row: ^C
+ lee  ~  Desktop  cProgramming  pop
+ lee  ~  Desktop  cProgramming  gcc matrix_multiplication.c -o matrix_multip
+lication && ./matrix_multiplication
+Please choose the option 1-5
+1. Input A
+2. Input B
+3. Input C
+4. Multiply
+5. Exit
+1-5: 1   
+###### Input matrix wizard ######
+Input first row: 1 25 5
+Input second row: 2 6 9
+Input third row: 4 8 3
+ lee  ~  Desktop  cProgramming  pop
+ lee  ~  Desktop  cProgramming  
+*** File '(Unnamed)'
+
+*** These modified files were found in JOE when it aborted on Thu Dec 10 23:55:06 2020
+*** JOE was aborted by UNIX signal 1
+colors
+colors
+overwrite
+overwrite
+
+*** These modified files were found in JOE when it aborted on Thu Dec 10 23:55:06 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+
+*** File '(Unnamed)'
+root
+root
+root
+root
+root
+
+*** File '(Unnamed)'
+
+*** File '(Unnamed)'
+dec
+cnt
+av
+avg
+col
+lines
+sin(15)
+sin(90)
+sin(0)
+cos(0)
+
+*** File '(Unnamed)'
+ls
+
+*** File '(Unnamed)'
+colors
+colors
+colors
+colors
+hehe
+h
+\&
+\&
+
+*** File '(Unnamed)'
+
+*** File '(Unnamed)'
+cnfdsjkfbhdks
+giai
+giai
+Game
+Game
+1
+input_array
+input_array
+
+*** File '(Unnamed)'
+root
+root
+
+*** File '(Unnamed)'
+root
+root
+
+*** File '(Unnamed)'
+02_getting_an_image_on_the_screen.cpp
+Makefile
+02_getting_an_image_on_the_screen.c
+hello1_sdl.c
+hello1_sdl.c
+tree
+tree
+tree
+sis.c
+sis.c
+matrix_multiplication.c
+matrix_multiplication.c
+* Startup Log *
+* Shell 1 *
+matrix_multiplication.c
+matrix_multiplication.c
+* Startup Log *
+* Shell 1 *
+matrix_multiplication.c
+* Startup Log *
+* Shell 1 *
+matrix_multiplication.c
+* Startup Log *
+* Shell 1 *
+matrix_multiplication.c
+
+*** File '(Unnamed)'
+dec
+cnt
+av
+avg
+col
+lines
+sin(15)
+sin(90)
+sin(0)
+cos(0)
+
+*** File '* Startup Log *'
+dec
+cnt
+av
+avg
+col
+lines
+sin(15)
+sin(90)
+sin(0)
+cos(0)
+
+*** File '(Unnamed)'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+
+*** File '(Unnamed)'
+ls
+ls
+
+*** File '(Unnamed)'
+
+*** File '(Unnamed)'
+hehe
+h
+\&
+\&
+hehe
+h
+\&
+\&
+
+*** File '(Unnamed)'
+
+*** File '(Unnamed)'
+cnfdsjkfbhdks
+giai
+giai
+Game
+Game
+cnfdsjkfbhdks
+giai
+giai
+Game
+Game
+
+*** File '(Unnamed)'
+
+*** File '(Unnamed)'
+02_getting_an_image_on_the_screen.cpp
+Makefile
+02_getting_an_image_on_the_screen.c
+hello1_sdl.c
+hello1_sdl.c
+tree
+tree
+tree
+sis.c
+sis.c
+matrix_multiplication.c
+matrix_multiplication.c
+* Startup Log *
+* Shell 1 *
+02_getting_an_image_on_the_screen.cpp
+Makefile
+02_getting_an_image_on_the_screen.c
+hello1_sdl.c
+hello1_sdl.c
+tree
+tree
+tree
+sis.c
+sis.c
+matrix_multiplication.c
+matrix_multiplication.c
+* Startup Log *
+* Shell 1 *
+
+*** File '* Startup Log *'
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
