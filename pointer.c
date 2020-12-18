@@ -103,4 +103,14 @@
 //     return 0;
 // }
 /*------------------*/
+#include<stdio.h>
+
+int main(){
+    int *m,*n;
+    int b[10];
+    m = &b[1];
+    n = &b[4];
+    printf("%ld\n", m-n);
+    return 0;
+}
 
